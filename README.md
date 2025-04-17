@@ -113,6 +113,7 @@ Receiver Public Key: GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Accounts funded with 10,000 XLM each on testnet
 Payment successful! Transaction hash: <transaction-hash>
 
+![stellar 1](https://github.com/user-attachments/assets/ef70deb0-901f-4486-8606-8af0e828d6b1)
 
 Fix: If you get an error:
 Module Not Found: Ensure dist/index.js exists and dependencies are installed.
